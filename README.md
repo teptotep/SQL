@@ -1,7 +1,7 @@
 # SQL
 ## Project 1:
   ### Creating Database
-  The start of this project is to create a completely new database. This inccludes creating schemas, tables, and inserting data into the database. It also includes optimization techniques to optimize queries.
+  The start of this project is to create a completely new database. This includes creating schemas, tables, and inserting data into the database. It also includes optimization techniques to optimize queries.
 
 
 
